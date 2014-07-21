@@ -1,1 +1,3 @@
-include apache2,git
+node 'san-ubuntuvm' {
+include apache2,git,ssh
+}

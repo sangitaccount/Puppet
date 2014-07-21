@@ -1,0 +1,3 @@
+node 'centos' {
+include ntp
+}
