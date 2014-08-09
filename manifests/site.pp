@@ -1,1 +1,1 @@
-import "san-ubuntuvm","centos"
+import "san-ubuntuvm"
